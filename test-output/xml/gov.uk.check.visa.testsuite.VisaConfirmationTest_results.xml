@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VisaConfirmation Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.610">
+  <properties />
+  
+  
+            <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="4.000" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" time="6.573" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="anAustralianComingToUKForTourism" time="3.037" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      
+</testsuite>
